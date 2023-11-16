@@ -14,7 +14,9 @@
     text-align: center;
     padding: 8px 0;
 }
-
+.header .inner-main{
+    background-color: #fff;
+}
 .header .inner-main .container .inner-wrap{
     padding: 15px 0px;
 
